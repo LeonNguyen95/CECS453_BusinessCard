@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Leon Nguyen</string>
+    <string name="title">Software Dev Engineering Intern</string>
+    <string name="phone_number">+1 (657) 246 9341</string>
+    <string name="social_media">www.linkedin.com/in/leon-thien-nguyen/</string>
+    <string name="email">shinichi5442@gmail.com</string>
+</resources>
